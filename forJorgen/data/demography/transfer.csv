@@ -1,0 +1,3 @@
+StageId,Sex,Evolving,KernelDistribution,KernelParameters,DistDependantMortality,MortalityRate,MortalitySlope,MortalityInflection
+1,male,#,negexp,{mean=200},FALSE,0.1,fixed,{value=10}
+1,female,#,negexp,{mean=200},FALSE,0.1,fixed,{value=10}

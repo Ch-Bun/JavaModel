@@ -1,0 +1,3 @@
+StageId,Sex,Evolving,PerStepMortality,MaxStepsPerDispersalEvent,MemSize,DPDistribution,DPParameters,GoalBias,GBDistribution,GBParameters,AlphaDistribution,AlphaParameters,BetaDistribution,BetaParameters
+0,male,#,0.01,#,#,fixed,{value=10},#,#,#,#,#,#,#
+0,female,#,0.01,#,#,fixed,{value=10},#,#,#,#,#,#,#

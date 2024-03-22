@@ -1,0 +1,3079 @@
+Build version: null
+REAL_LANDSCAPE: false
+DENSITY_DEPENDENT_FECUNDITY: true
+FRACTAL: t
+HABITAT_FILENAME: Legend.csv
+END_YEAR: 2050
+DISTURBANCE: true
+CHROMOSOMESIZES: {1000}
+NROWS: 5
+BALANCING_GENERATIONS: 250
+OUTPUT_DIR: C:\GitHubProjects\Novom\forJorgen
+XLLCORNER: 0
+CELLSIZE: 100
+BASE_DIR: C:\GitHubProjects\Novom\forJorgen
+PATCH_BASED: false
+IS_CALIBRATION_RUN: false
+FROM_CALIBRATION_RUN: false
+NCOLS: 5
+START_YEAR: 2000
+INITIAL_STAGE_PROPORTIONS: {0.0 1.0}
+FRACTION_KILLED_BY_DISTURBANCE: 0.7
+FRACTION_OF_PATCHES_TO_DISTURB: 1.0
+GENERAIONS_BETWEEN_DISTURBANCES: 1
+REPLICATES: 1
+YLLCORNER: 0
+
+Starting setup
+Start date: 2000-01-01. End date: 2050-01-01
+Reproductive season starts: --05-01. Ends: --06-30
+Setting up stage and sex specific characteristics
+reading stage specific demography file: C:\GitHubProjects\Novom\forJorgen\data\demography\demography.csv
+reading stage specific emigration characteristics file: C:\GitHubProjects\Novom\forJorgen\data\demography\emigration.csv
+reading stage specific kernel transfer characteristics file: C:\GitHubProjects\Novom\forJorgen\data\demography\transfer.csv
+reading stage specific settlement characteristics file: C:\GitHubProjects\Novom\forJorgen\data\demography\settlement.csv
+female juvenile loaded
+male juvenile loaded
+female egg loaded
+male egg loaded
+Finished processing stage and sex specific characteristics files
+Setting up life cycle
+reading life cycle file: C:\GitHubProjects\Novom\forJorgen\data\demography\lifecycle.csv
+Mating system set as polygyny
+Adding Mate to life cycle 
+Adding Birth to life cycle 
+Adding Disperse to life cycle 
+Adding Age to life cycle 
+Finished setting up life cycle
+Setting up landscape
+reading habitat file: C:\GitHubProjects\Novom\forJorgen\data\landscape\Legend.csv
+0 (matrix)  K set at 0.0
+1 (habitat)  K set at 100.0
+Processed C:\GitHubProjects\Novom\forJorgen\data\landscape\Legend.csv, created 2 habitat types
+Initialising population from scratch
+reading quantitative traits file: C:\GitHubProjects\Novom\forJorgen\data\genetics\QTLParameters.csv
+reading mutation types file: C:\GitHubProjects\Novom\forJorgen\data\genetics\MutationParameters.csv
+Finished initialising population from scratch
+balancing generations = 0
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 1
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 2
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 3
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 4
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 5
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 6
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 7
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 8
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 9
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 10
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 11
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 12
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 13
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 14
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 15
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 16
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 17
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 18
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 19
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Error: trying to remove creature id 75201 hashcode 75232 from patch 19 hashcode 50 but doesn't exist there
+Finished aging
+balancing generations = 20
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 21
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 22
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 23
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 24
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 25
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 26
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 27
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 28
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 29
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 30
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 31
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 32
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 33
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 34
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 35
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 36
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 37
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 38
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 39
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 40
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 41
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 42
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 43
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 44
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 45
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 46
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 47
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 48
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 49
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 50
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 51
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 52
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 53
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 54
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 55
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 56
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 57
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 58
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 59
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 60
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 61
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 62
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 63
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 64
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 65
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 66
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 67
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 68
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 69
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 70
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 71
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 72
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 73
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 74
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 75
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 76
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 77
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 78
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 79
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 80
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 81
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 82
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 83
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 84
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 85
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 86
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 87
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 88
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 89
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 90
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 91
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 92
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 93
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 94
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 95
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 96
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 97
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 98
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 99
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 100
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 101
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 102
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 103
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 104
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 105
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 106
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 107
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 108
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 109
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 110
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 111
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 112
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 113
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 114
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 115
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 116
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 117
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 118
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 119
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 120
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 121
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 122
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 123
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 124
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 125
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 126
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 127
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 128
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 129
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 130
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 131
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 132
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 133
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 134
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 135
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 136
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 137
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 138
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 139
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 140
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 141
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 142
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 143
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 144
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 145
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 146
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 147
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 148
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 149
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 150
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 151
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 152
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 153
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 154
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 155
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 156
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 157
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 158
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 159
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 160
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 161
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Error: trying to remove creature id 647452 hashcode 647483 from patch 8 hashcode 39 but doesn't exist there
+Finished aging
+balancing generations = 162
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 163
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 164
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 165
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 166
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 167
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 168
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 169
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 170
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 171
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 172
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 173
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 174
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 175
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 176
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 177
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 178
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 179
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 180
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 181
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 182
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 183
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 184
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 185
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 186
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 187
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 188
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 189
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 190
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 191
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 192
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 193
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 194
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 195
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 196
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 197
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 198
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 199
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 200
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 201
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 202
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 203
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 204
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 205
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 206
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 207
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 208
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 209
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 210
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 211
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 212
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 213
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 214
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 215
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 216
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 217
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 218
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 219
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 220
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 221
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 222
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 223
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 224
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 225
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 226
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 227
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 228
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 229
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 230
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 231
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 232
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 233
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 234
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 235
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 236
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Error: trying to remove creature id 949152 hashcode 949183 from patch 3 hashcode 34 but doesn't exist there
+Finished aging
+balancing generations = 237
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 238
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 239
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 240
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 241
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 242
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 243
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 244
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 245
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 246
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 247
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 248
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 249
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+balancing generations = 250
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+Year: 2000
+Mating started
+Mating ended
+starting generation of new offspring, year2000
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+Outputing cells for generation: 2000
+Year: 2001
+Mating started
+Mating ended
+starting generation of new offspring, year2001
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+Outputing cells for generation: 2001
+Year: 2002
+Mating started
+Mating ended
+starting generation of new offspring, year2002
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+Outputing cells for generation: 2002
+Year: 2003
+Mating started
+Mating ended
+starting generation of new offspring, year2003
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+Outputing cells for generation: 2003
+Year: 2004
+Mating started
+Mating ended
+starting generation of new offspring, year2004
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+Outputing cells for generation: 2004
+Year: 2005
+Mating started
+Mating ended
+starting generation of new offspring, year2005
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+Outputing cells for generation: 2005
+Year: 2006
+Mating started
+Mating ended
+starting generation of new offspring, year2006
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+Outputing cells for generation: 2006
+Year: 2007
+Mating started
+Mating ended
+starting generation of new offspring, year2007
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+Outputing cells for generation: 2007
+Year: 2008
+Mating started
+Mating ended
+starting generation of new offspring, year2008
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+Outputing cells for generation: 2008
+Year: 2009
+Mating started
+Mating ended
+starting generation of new offspring, year2009
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+Outputing cells for generation: 2009
+Year: 2010
+Mating started
+Mating ended
+starting generation of new offspring, year2010
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+Outputing cells for generation: 2010
+Year: 2011
+Mating started
+Mating ended
+starting generation of new offspring, year2011
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+Outputing cells for generation: 2011
+Year: 2012
+Mating started
+Mating ended
+starting generation of new offspring, year2012
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+Outputing cells for generation: 2012
+Year: 2013
+Mating started
+Mating ended
+starting generation of new offspring, year2013
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+Outputing cells for generation: 2013
+Year: 2014
+Mating started
+Mating ended
+starting generation of new offspring, year2014
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+Outputing cells for generation: 2014
+Year: 2015
+Mating started
+Mating ended
+starting generation of new offspring, year2015
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+Outputing cells for generation: 2015
+Year: 2016
+Mating started
+Mating ended
+starting generation of new offspring, year2016
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+Outputing cells for generation: 2016
+Year: 2017
+Mating started
+Mating ended
+starting generation of new offspring, year2017
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+Outputing cells for generation: 2017
+Year: 2018
+Mating started
+Mating ended
+starting generation of new offspring, year2018
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+Outputing cells for generation: 2018
+Year: 2019
+Mating started
+Mating ended
+starting generation of new offspring, year2019
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+Outputing cells for generation: 2019
+Year: 2020
+Mating started
+Mating ended
+starting generation of new offspring, year2020
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+Outputing cells for generation: 2020
+Year: 2021
+Mating started
+Mating ended
+starting generation of new offspring, year2021
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+Outputing cells for generation: 2021
+Year: 2022
+Mating started
+Mating ended
+starting generation of new offspring, year2022
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+Outputing cells for generation: 2022
+Year: 2023
+Mating started
+Mating ended
+starting generation of new offspring, year2023
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+Outputing cells for generation: 2023
+Year: 2024
+Mating started
+Mating ended
+starting generation of new offspring, year2024
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+Outputing cells for generation: 2024
+Year: 2025
+Mating started
+Mating ended
+starting generation of new offspring, year2025
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+Outputing cells for generation: 2025
+Year: 2026
+Mating started
+Mating ended
+starting generation of new offspring, year2026
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+Outputing cells for generation: 2026
+Year: 2027
+Mating started
+Mating ended
+starting generation of new offspring, year2027
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+Outputing cells for generation: 2027
+Year: 2028
+Mating started
+Mating ended
+starting generation of new offspring, year2028
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+Outputing cells for generation: 2028
+Year: 2029
+Mating started
+Mating ended
+starting generation of new offspring, year2029
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+Outputing cells for generation: 2029
+Year: 2030
+Mating started
+Mating ended
+starting generation of new offspring, year2030
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+Outputing cells for generation: 2030
+Year: 2031
+Mating started
+Mating ended
+starting generation of new offspring, year2031
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+Outputing cells for generation: 2031
+Year: 2032
+Mating started
+Mating ended
+starting generation of new offspring, year2032
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+Outputing cells for generation: 2032
+Year: 2033
+Mating started
+Mating ended
+starting generation of new offspring, year2033
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+Outputing cells for generation: 2033
+Year: 2034
+Mating started
+Mating ended
+starting generation of new offspring, year2034
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+Outputing cells for generation: 2034
+Year: 2035
+Mating started
+Mating ended
+starting generation of new offspring, year2035
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+Outputing cells for generation: 2035
+Year: 2036
+Mating started
+Mating ended
+starting generation of new offspring, year2036
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+Outputing cells for generation: 2036
+Year: 2037
+Mating started
+Mating ended
+starting generation of new offspring, year2037
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+Outputing cells for generation: 2037
+Year: 2038
+Mating started
+Mating ended
+starting generation of new offspring, year2038
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+Outputing cells for generation: 2038
+Year: 2039
+Mating started
+Mating ended
+starting generation of new offspring, year2039
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+Outputing cells for generation: 2039
+Year: 2040
+Mating started
+Mating ended
+starting generation of new offspring, year2040
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+Outputing cells for generation: 2040
+Year: 2041
+Mating started
+Mating ended
+starting generation of new offspring, year2041
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+Outputing cells for generation: 2041
+Year: 2042
+Mating started
+Mating ended
+starting generation of new offspring, year2042
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+Outputing cells for generation: 2042
+Year: 2043
+Mating started
+Mating ended
+starting generation of new offspring, year2043
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+Outputing cells for generation: 2043
+Year: 2044
+Mating started
+Mating ended
+starting generation of new offspring, year2044
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+Outputing cells for generation: 2044
+Year: 2045
+Mating started
+Mating ended
+starting generation of new offspring, year2045
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+Outputing cells for generation: 2045
+Year: 2046
+Mating started
+Mating ended
+starting generation of new offspring, year2046
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+Outputing cells for generation: 2046
+Year: 2047
+Mating started
+Mating ended
+starting generation of new offspring, year2047
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+Outputing cells for generation: 2047
+Year: 2048
+Mating started
+Mating ended
+starting generation of new offspring, year2048
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+Outputing cells for generation: 2048
+Year: 2049
+Mating started
+Mating ended
+starting generation of new offspring, year2049
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+Outputing cells for generation: 2049
+Year: 2050
+Mating started
+Mating ended
+starting generation of new offspring, year2050
+finished generation of new offspring
+Dispersal started
+Dispersal ended
+Starting aging 
+Finished aging
+Outputing cells for generation: 2050

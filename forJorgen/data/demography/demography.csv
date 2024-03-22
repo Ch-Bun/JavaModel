@@ -1,0 +1,5 @@
+Sex,StageId,MinAge,MaxAge,Fecundity,SurvivalProbability,DevelopmentProbability,Disperses
+male,0,0,0,#,0,1,FALSE
+female,0,0,0,#,0,1,FALSE
+male,1,1,1,10,0,0,TRUE
+female,1,1,1,10,0,0,TRUE

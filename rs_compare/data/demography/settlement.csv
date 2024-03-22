@@ -1,0 +1,3 @@
+StageId,Sex,DensityDependent,Evolving,FindMate,ProbabilityUnsettle,SODistribution,SOParameters,AlphaDistribution,AlphaParameters,BetaDistribution,BetaParameters
+0,male,#,#,TRUE,0,fixed,{value=1.0},#,#,#,#
+0,female,#,#,TRUE,0,fixed,{value=1.0},#,#,#,#

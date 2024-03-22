@@ -1,0 +1,3 @@
+StageId,Sex,DensityDependent,Evolving,D0Distribution,D0Parameters,BetaDistribution,BetaParameters,AlphaDistribution,AlphaParameters
+0,male,TRUE,FALSE,fixed,{value=0.5},fixed,{value=10.0},fixed,{value=1.0}
+0,female,TRUE,FALSE,fixed,{value=0.5},fixed,{value=10.0},fixed,{value=1.0}

@@ -1,0 +1,2 @@
+MutationName,GeneType,Neutral,InitialDistribution,InitialParameters,DominanceDistribution,DominanceParameters,MutationDistribution,MutationParameters,MutationRate,Positions
+a,character,TRUE,fixed,{value=0.0},fixed,{value=0.0},uniformChar,{value=0.0},0.001,{0-1000}

@@ -1,0 +1,88 @@
+Build version: null
+
+Starting setup
+Start date: 1961-01-01. End date: 1961-01-01
+Reproductive season starts: --05-01. Ends: --06-30
+Setting up stage and sex specific characteristics
+reading stage specific demography file: null\data\demography\demography.csv
+Error: Demography file: Failed in reading file. Check column names spelling and lower/upper case null\data\demography\demography.csv
+java.io.FileNotFoundException: null\data\demography\demography.csv (The system cannot find the path specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:211)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:153)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:108)
+	at java.base/java.io.FileReader.<init>(FileReader.java:60)
+	at FileReaders.DemographyFileReader.readDemographyFile(DemographyFileReader.java:28)
+	at global.ModelMain.createLifestages(ModelMain.java:285)
+	at global.ModelMain.setup(ModelMain.java:100)
+	at global.ModelMain.main(ModelMain.java:81)
+reading stage specific emigration characteristics file: null\data\demography\emigration.csv
+Error: Emigration stages file: Failed in reading file. Check column spelling and lower/upper case null\data\demography\emigration.csv
+java.io.FileNotFoundException: null\data\demography\emigration.csv (The system cannot find the path specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:211)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:153)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:108)
+	at java.base/java.io.FileReader.<init>(FileReader.java:60)
+	at FileReaders.EmigrationFileReader.readDispersalFile(EmigrationFileReader.java:37)
+	at global.ModelMain.createLifestages(ModelMain.java:286)
+	at global.ModelMain.setup(ModelMain.java:100)
+	at global.ModelMain.main(ModelMain.java:81)
+reading stage specific kernel transfer characteristics file: null\data\demography\transfer.csv
+Error: kernel stages file: Failed in reading file. null\data\demography\transfer.csv
+java.io.FileNotFoundException: null\data\demography\transfer.csv (The system cannot find the path specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:211)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:153)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:108)
+	at java.base/java.io.FileReader.<init>(FileReader.java:60)
+	at FileReaders.KernelFileReader.readDispersalFile(KernelFileReader.java:40)
+	at global.ModelMain.createLifestages(ModelMain.java:287)
+	at global.ModelMain.setup(ModelMain.java:100)
+	at global.ModelMain.main(ModelMain.java:81)
+reading stage specific settlement characteristics file: null\data\demography\settlement.csv
+Error: Settlement stages file: Failed in reading file. Check column spelling and lower/upper case null\data\demography\settlement.csv
+java.io.FileNotFoundException: null\data\demography\settlement.csv (The system cannot find the path specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:211)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:153)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:108)
+	at java.base/java.io.FileReader.<init>(FileReader.java:60)
+	at FileReaders.SettlementFileReader.readDispersalFile(SettlementFileReader.java:34)
+	at global.ModelMain.createLifestages(ModelMain.java:288)
+	at global.ModelMain.setup(ModelMain.java:100)
+	at global.ModelMain.main(ModelMain.java:81)
+Finished processing stage and sex specific characteristics files
+Setting up life cycle
+reading life cycle file: null\data\demography\lifecycle.csv
+Error: Uh-oh, failed reading file null\data\demography\lifecycle.csv
+java.io.FileNotFoundException: null\data\demography\lifecycle.csv (The system cannot find the path specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:211)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:153)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:108)
+	at java.base/java.io.FileReader.<init>(FileReader.java:60)
+	at FileReaders.LifecycleReader.readLifeCycleFile(LifecycleReader.java:31)
+	at global.ModelMain.setLifecyle(ModelMain.java:323)
+	at global.ModelMain.setup(ModelMain.java:104)
+	at global.ModelMain.main(ModelMain.java:81)
+Finished setting up life cycle
+Setting up landscape
+reading habitat file: null\data\landscape\habitatTypes.csv
+Error: Habitat types file: Failed in reading file null\data\landscape\habitatTypes.csv
+java.io.FileNotFoundException: null\data\landscape\habitatTypes.csv (The system cannot find the path specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:211)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:153)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:108)
+	at java.base/java.io.FileReader.<init>(FileReader.java:60)
+	at FileReaders.HabitatFileReader.readHabitatFile(HabitatFileReader.java:27)
+	at global.ModelMain.getLandscapeRaster(ModelMain.java:242)
+	at global.ModelMain.setup(ModelMain.java:111)
+	at global.ModelMain.main(ModelMain.java:81)
+Processed null\data\landscape\habitatTypes.csv, created 0 habitat types
+Initialising population from scratch
+Finished initialising population from scratch
+Year: 1961
+Starting serializing individuals to .\data.ser
+Serialized data is saved
